@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="App-header">
       <div className="container">
-        <div className="jumbotron" style={{backgroundImage: "url("+"https://www.ecestaticos.com/image/clipping/805b2e3665752c8e649869bbccf5bf52/por-que-siempre-debes-comprar-la-pizza-mas-grande-y-nos-dos-pequenas.jpg"+")"}}>
+        <div className="jumbotron" style={{backgroundImage: "url(https://www.ecestaticos.com/image/clipping/805b2e3665752c8e649869bbccf5bf52/por-que-siempre-debes-comprar-la-pizza-mas-grande-y-nos-dos-pequenas.jpg)"}}>
           <h2 style={{color: "black"}}>Receta Pizza Casera</h2>
           <Table/>
         </div>
