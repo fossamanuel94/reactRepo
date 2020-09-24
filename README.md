@@ -1,3 +1,7 @@
+Descargar Node.js para poder crear nuestra aplicación React desde https://nodejs.org/es/
+
+Crear aplicación React: npx create-react-app myappreact
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
